@@ -16,3 +16,6 @@
 
 ###  Run server
     python manage.py runserver
+
+### UI the template
+    http://localhost:8000
